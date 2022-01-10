@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Dan245
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on something cool I guess
-- 📫 How to reach me: Email
+👋 Hi, I’m @Dan245
 
 <!---
 Dan245/Dan245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
