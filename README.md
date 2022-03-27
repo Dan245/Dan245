@@ -1,3 +1,3 @@
 # Welcome Recruiters!
 
-Have fun exploring!
+I hope you have fun exploring
