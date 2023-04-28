@@ -1,3 +1,3 @@
-# Welcome Recruiters
+# Welcome Admissions Officers!
 
-I hope you have fun exploring!
+This is Davin Mamo's GitHub repo, I hope you have fun exploring!
